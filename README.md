@@ -6,4 +6,5 @@
 
 This repository contains all of the notes taken by [Esther](https://github.com/esplett/) for the Lighthouse Labs Web Development Bootcamp.
 
-[Link Text](URL)
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
